@@ -1,0 +1,7 @@
+{
+    "output"  : "results/hits.txt",
+    "proxies" : "good.txt",
+    "debug"   : false,
+    "timeout" : 50,
+    "threads" : 250
+}
